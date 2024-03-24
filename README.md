@@ -20,8 +20,8 @@ This project requires internet connection to install all the modules. You can do
 After successful installation, run operations. py. You can see two text boxes in the first write your input depending on the selected tab "ASCII TO TEXT" or "TEXT TO ASCII". At the bottom, the converted data will appear when you click the convert button.
 ## Screenshots
 
-![App Screenshot](screenshots/ss_01)
-![App Screenshot](screenshots/ss_02)
+![App Screenshot](screenshots/ss_01.png)
+![App Screenshot](screenshots/ss_02.png)
 
 
 ## Features
