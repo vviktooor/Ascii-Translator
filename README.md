@@ -9,7 +9,7 @@ This program is a simple text to ascii or ascii to text translator.
 This project requires internet connection to install all the modules. You can download them manually or with requirements.txt
 
 ```terminal
-  cd ascii_decoder_v2
+  cd Ascii-Translator
 ```
 ```terminal
   pip3 install -r requirements.txt
